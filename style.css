@@ -1,0 +1,111 @@
+
+.handlee-regular {
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: "Handlee";
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    padding: 0;    
+}
+h1{
+    color: black;
+    justify-content: left;
+    margin-left:10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right:100px;
+    font-size:x-large;
+}
+img{
+    justify-content: flex-end;
+    width: 60px;
+    height: 60px;
+    padding: 0px;
+    margin-right: 20px;
+    margin-left:90px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    
+}
+.box1{
+    margin: 0;
+    display: flex;
+    height: 40px;
+    width: 450px;
+    padding: 0px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    
+}
+.p1{
+    padding: 10px;
+    font-weight:500;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-size: 16px;
+    
+}
+.box2{
+    margin-left: 0px;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.general{
+    background-color: rgb(35, 34, 34);
+    width: 500px;
+    height: 100%;
+    margin: 0 300px 0 300px;
+    padding: 200px;
+    
+    
+}
+.target{
+    background-color: white;
+    width: 400px;
+    height: 280px;
+    padding: 20;  
+    margin: 10px;
+    margin-left: 40px;
+}
+.p2{
+    padding: auto;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: left;
+    margin-right: 50%;
+    margin-left: 10px;
+    font-size: 16px;
+
+}
+.form1{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.form1 input{
+    border: 0;
+    border-bottom: 1px solid black;
+    font-family: "handlee";
+    font-size: 16px;
+}
+
+.form2{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.form2 input{
+    background-color: rgb(194, 194, 194);
+    border:0;
+    margin-bottom:20px;
+    padding: 3px;
+    font-family: "handlee";
+    border-bottom: 0.2px solid black;
+    font-size: 16px;
+}
+
